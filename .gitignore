@@ -10,3 +10,5 @@ my-hibernate/my-employee=annotations/target
 .project
 .classpath
 my-hibernate/.settings
+my-hibernate/my-employee-annotations/target
+my-hibernate/my-employee-annotations/.settings
