@@ -1,0 +1,12 @@
+.recommenders
+my-hibernate/my-employee/.settings
+.metadata
+*.
+Servers
+RemoteSystemsTempFiles
+my-hibernate/my-employee=annotations/.settings
+my-hibernate/my-employee/target
+my-hibernate/my-employee=annotations/target
+.project
+.classpath
+my-hibernate/.settings
